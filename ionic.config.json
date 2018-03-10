@@ -1,0 +1,8 @@
+{
+  "name": "theScribe_v1",
+  "app_id": "5b6995ae",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
